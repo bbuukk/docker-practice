@@ -1,0 +1,10 @@
+Dockerfile
+.dockerignore
+docker-compose.yml
+
+package-lock.json
+
+node_modules/
+
+README.md
+
